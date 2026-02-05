@@ -1,1 +1,2 @@
-Isago2
+Nombre:Ivan
+Apellidos:Salom Gomez
